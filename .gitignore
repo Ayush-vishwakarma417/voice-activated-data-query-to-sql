@@ -1,0 +1,21 @@
+# Environment variables (Crucial: Protects your Gemini API key)
+.env
+
+# Local databases
+*.db
+*.sqlite3
+company_data.db
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / VS Code settings
+.vscode/
